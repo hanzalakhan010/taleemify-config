@@ -1,3 +1,4 @@
 [
-  { "id": 1, "message": "Dummy announcement" }
+  { "id": 1, "message": "Dummy announcement" },
+  { "id": 1, "message": "Dummy announcement 2" }
 ]
