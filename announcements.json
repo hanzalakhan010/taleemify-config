@@ -1,4 +1,10 @@
-[
-  { "id": 1, "message": "Dummy announcement" },
-  { "id": 1, "message": "Dummy announcement 2" }
-]
+{
+  "main": [
+    { "message": " Admissions open for Spring 2026!" },
+    { "message": "⚡ Site maintenance on Nov 5th, 2–4 PM." }
+  ],
+  "sub": [
+    { "message": " Follow us on Instagram for updates!" },
+    { "message": " New blog post: Learn AI the practical way." }
+  ]
+}
