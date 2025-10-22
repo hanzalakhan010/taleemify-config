@@ -1,10 +1,12 @@
 {
   "main": [
-    { "message": " Admissions open for Spring 2026!" },
-    { "message": "⚡ Site maintenance on Nov 5th, 2–4 PM." }
+    "Admissions open for Fall 2025!",
+    "Hackathon registrations closing soon!",
+    "Scholarship applications now live!"
   ],
   "sub": [
-    { "message": " Follow us on Instagram for updates!" },
-    { "message": " New blog post: Learn AI the practical way." }
+    "Stay tuned for our next webinar series.",
+    "Follow us on Instagram for updates.",
+    "Campus renovation phase 2 starting soon."
   ]
 }
